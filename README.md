@@ -24,7 +24,8 @@ I'm a MERN Full Stack Developer from Coimbatore, passionate about building user-
 
 ## 📫 Get in Touch
 - **Email:** [muthurajamernultrafly@gmail.com](mailto:muthurajamernultrafly@gmail.com)
-- **LinkedIn:** [Muthu Raja]([https://www.linkedin.com/in/muthu-raja-mern])
+- **[LinkedIn:** Muthu Raja](https://www.linkedin.com/in/muthu-raja-mern)
+
 
 ## 🎯 Goals
 - **Short-term:** Enhance my skills in React Native and contribute to open-source projects.
