@@ -3,7 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto:muthurajamernultrafly@gmail.com">Email</a> |
-  <a href="https://www.linkedin.com/in/dilip-kumar750">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/muthu-raja-mern">LinkedIn</a>
 </p>
 
 ## 👤 About Me
@@ -24,7 +24,7 @@ I'm a MERN Full Stack Developer from Coimbatore, passionate about building user-
 
 ## 📫 Get in Touch
 - **Email:** [muthurajamernultrafly@gmail.com](mailto:muthurajamernultrafly@gmail.com)
-- **LinkedIn:** [Dilip Kumar](https://www.linkedin.com/in/dilip-kumar750)
+- **LinkedIn:** [Muthu Raja]([https://www.linkedin.com/in/muthu-raja-mern])
 
 ## 🎯 Goals
 - **Short-term:** Enhance my skills in React Native and contribute to open-source projects.
